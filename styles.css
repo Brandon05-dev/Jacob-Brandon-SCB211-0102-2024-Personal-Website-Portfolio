@@ -7,10 +7,11 @@
 
 /* Body Styling */
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'verdana', sans-serif;
     background: linear-gradient(135deg, #5A3F37, #D16D2C); /* Modern gradient */
     color: #f4f4f4;
     line-height: 1.6;
+    text-align: center;
 }
 
 /* Global Links */
@@ -214,3 +215,11 @@ footer .social-links a:hover {
         font-size: 1rem;
     }
 }
+img{border-radius: 8px
+}
+
+#p0 {margin-top: 10px}
+
+#p1 {width: 500px;
+height: 500px;
+margin-top: 10px}
